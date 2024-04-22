@@ -1,4 +1,4 @@
-# Chaos Story
+# Chaos Story: The Reason
 
 ¿Quieres practicar los comandos de GitHub pero te preocupa cometer errores en un repositorio importante? ¡Para eso está este!
 
@@ -8,7 +8,7 @@ En este repositorio solo trabajaremos con texto y Markdown, y el objetivo es com
 
 A continuación, te guiaré un poco en los pasos a seguir para participar (y practicar) en este repositorio.
 
-# 1. Forkear el repositorio:
+## 1. Forkear el repositorio:
 
 ### Definición de fork
 Un fork es una copia de un repositorio en el que puedes experimentar sin afectar al proyecto original. Te permite trabajar en tu propia versión del proyecto sin interferir con el repositorio principal.
