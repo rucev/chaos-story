@@ -67,13 +67,40 @@ Trabaja en el apartado concreto del archivo [`chaos-story.md`](./chaos-story.md)
 Los conflictos ocurren cuando dos o más personas modifican el mismo archivo o línea de código al mismo tiempo. Git no puede determinar automáticamente qué cambios conservar, por lo que es necesario resolver los conflictos manualmente.
 
 ### Cómo hacer commit y push
-1. `git add nombre-archivo-modificado` para agregar los archivos modificados al área de preparación.
-2. `git commit -m 'acción que has hecho en infinitivo e inglés #NumeroIssueSeleccionado'` para confirmar los cambios en tu repositorio local. Un ejemplo de mensaje apropiado para el commit sería: `'add new description #6'`
-3. `git push` para enviar los cambios a tu repositorio remoto en GitHub.
+1. **git add** para agregar los archivos modificados al área de preparación.
+```sh
+git add nombre-archivo-modificado
+```
+2. **git commit** para confirmar los cambios en tu repositorio local.
+```sh
+git commit -m 'acción que has hecho en infinitivo e inglés #NumeroIssueSeleccionado'
+```
+Un ejemplo de mensaje apropiado para el commit sería: `'add new description #6'`
+
+3. **git push** para enviar los cambios a tu repositorio remoto en GitHub.
+```sh
+git push
+```
 
 ¡**Recuerda** que todos los cambios no commiteados se pueden perder si cambias de rama!
 
-**Consejo Pro:** Si te interesa cambiar de rama pero aún no estás preparado para hacer commit, puedes utilizar `git stash` para guardar temporalmente tus cambios y luego cambiar de rama con tranquilidad. Una vez que vuelvas a la rama original, puedes recuperar lo último que hayas "stasheado" utilizando `git stash pop`. Sin embargo, si realizas varios `git stash`, tendrás que especificar cuál quieres recuperar. Puedes ver todos los "stashes" con `git stash list` y recuperar uno específico con `git stash pop stash@{NUMERO}`. Además, los cambios "stasheados" no aparecen en ninguna parte al ejecutar `git status`, por lo que es una manera segura de guardar cambios temporales pero es fácil dejarse llevar. Es recomendable no acumular muchos "stashes" ya que puede volverse confuso.
+**Consejo Pro:** Si te interesa cambiar de rama pero aún no estás preparado para hacer commit, puedes utilizar `git stash` para guardar temporalmente tus cambios y luego cambiar de rama con tranquilidad.
+```sh
+git stash
+```
+Una vez que vuelvas a la rama original, puedes recuperar lo último que hayas "stasheado" utilizando: 
+```sh
+git stash pop
+```
+Sin embargo, si realizas varios `git stash`, tendrás que especificar cuál quieres recuperar. Puedes ver todos los "stashes" con:
+```sh
+git stash list
+```
+Y recuperar uno específico con:
+```sh
+git stash pop stash@{NUMERO}
+```
+Además, los cambios "stasheados" no aparecen en ninguna parte al ejecutar `git status`, por lo que es una manera segura de guardar cambios temporales pero es fácil dejarse llevar. Es recomendable no acumular muchos "stashes" ya que puede volverse confuso.
 
 ## 6. Haz una pull-request con los cambios de tu repo al repositorio principal
 
@@ -107,12 +134,16 @@ Si haces eso asegurate de, desde tu local, volver a main y crear una rama nueva 
 1. 
 ```sh
 git switch main
+```
+```sh
 git checkout -b nombre-del-nuevo-issue
 ```
 
 2.
 ```sh
 git checkout main
+```
+```sh
 git checkout -b nombre-del-nuevo-issue
 ```
 
