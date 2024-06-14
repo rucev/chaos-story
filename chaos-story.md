@@ -2,6 +2,8 @@
 
 ## Título
 
+Las aventruas de Git
+
 ## Personaje Principal
 
 ## Entorno
