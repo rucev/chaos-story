@@ -6,10 +6,19 @@
 
 ## Personaje Principal
 
+Nombre:
+Git 🐱‍💻
+
+Edad:
+3 años (equivalentes a unos 28 años humanos)
+
+Características de su Personalidad:
+Git es un gato curioso e inteligente, siempre listo para una nueva aventura. Le encanta explorar su entorno, ya sea la casa, el jardín o el vecindario. Es muy juguetón y tiene una fascinación especial por los objetos brillantes y las pelotas de lana. Aunque tiene un espíritu independiente, Whiskers es también muy cariñoso y le gusta acurrucarse con su dueño por las noches. Es bastante astuto y a veces puede ser un poco travieso, pero su ternura siempre lo saca de problemas.
+
 ## Entorno
 
 ## Conflicto o Dilema
-
+<!--  -->
 ## Lugar Específico
 
 ## Personaje Secundario
