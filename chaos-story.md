@@ -2,6 +2,8 @@
 
 ## Título
 
+**Las aventuras de Git, el gatito astronauta**
+
 ## Personaje Principal
 
 ## Entorno
