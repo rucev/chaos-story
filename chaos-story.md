@@ -2,7 +2,7 @@
 
 ## Título
 
-Las aventruas de Git
+Las aventuras de Git
 
 ## Personaje Principal
 
