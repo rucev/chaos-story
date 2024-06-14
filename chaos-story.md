@@ -2,7 +2,7 @@
 
 ## Título
 
-Las aventuras de Git
+Las aventuras de Git, el gatito astronauta
 
 ## Personaje Principal
 
