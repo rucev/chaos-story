@@ -8,7 +8,7 @@ En este repositorio solo trabajaremos con texto y Markdown, y el objetivo es com
 
 A continuación, te guiaré un poco en los pasos a seguir para participar (y practicar) en este repositorio.
 
-## 1. Forkear el repositorio:
+## 1. Forkear el repositorio: [](#fork)
 
 ### Definición de fork
 Un fork es una copia de un repositorio en el que puedes experimentar sin afectar al proyecto original. Te permite trabajar en tu propia versión del proyecto sin interferir con el repositorio principal.
@@ -18,7 +18,7 @@ Para forkear un repositorio en GitHub, simplemente haz clic en el botón "Fork" 
 
 ![fork](/img/fork.png)
 
-## 2. Elige tu Issue (parte de la historia):
+## 2. Elige tu Issue (parte de la historia): [](#issue)
 
 ### Definición de issues en GitHub
 Los issues son puntos de discusión que se utilizan para realizar seguimiento de tareas, mejoras, errores u otras colaboraciones en un proyecto de GitHub. Son una forma de colaborar con otras personas en un proyecto.
@@ -212,6 +212,11 @@ El proceso es el mismo: pulsar `i`, navegar con las flechas hasta el texto que q
 Si ahora hacemos git status veremos que nuestra rama local difiere de la del repositorio remoto:
 
 ![rebase](/img/rebase-5.png)
+
+
+
+1. [Forkear el repositorio](#fork)
+2. [Elige tu Issue (parte de la historia):](#issue)
 
 Nos da la opción de hacer `git pull` para mergear nuestro rama con la remota, pero eso no nos interesa. Para saber porque solo necesitamos comprobar una vez más nuestro `git log`:
 
