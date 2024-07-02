@@ -30,7 +30,7 @@
 
 ## Trasfondo de un personaje
 
-Cuando era un gato pequeño le abandonaron en un contenedor hasta que una familia muy mona lo acogio.
+Cuando era un gato pequeño le abandonaron en un contenedor hasta que una familia muy mona lo acogio. Desde entonces llora cuando se queda solo, incluso si es solo dos minutos.
 
 ## Nuevo Obstáculo 
 
