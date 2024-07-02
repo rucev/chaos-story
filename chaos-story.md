@@ -30,6 +30,8 @@
 
 ## Trasfondo de un personaje
 
+Cuando era un gato pequeño le abandonaron en un contenedor hasta que una familia muy mona lo acogio.
+
 ## Nuevo Obstáculo 
 
 ## Antagonista
