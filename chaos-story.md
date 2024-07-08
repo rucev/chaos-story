@@ -1,4 +1,4 @@
-# Chaos Story: The Story
+# Chaos Story: The Story!
 
 ## Título
 
@@ -33,6 +33,8 @@
 Luego de una larga caminata por el parque,  nuestro gatito se encuentra a un sabio y anciano cuervo, conocido en el parque por su inteligencia, el gatito decide pedirle consejos de vida, el cuervo educadamente acepta el pedido del gatito, quien ha quedado perplejo ante la sabiduría del cuervo.
 
 ## Trasfondo de un personaje
+
+Cuando era un gato pequeño le abandonaron en un contenedor hasta que una familia muy mona lo acogio. Desde entonces llora cuando se queda solo, incluso si es solo dos minutos.
 
 ## Nuevo Obstáculo 
 
